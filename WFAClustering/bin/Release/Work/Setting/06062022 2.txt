@@ -1,0 +1,20 @@
+radioButtonWithoutProcessing$True$
+radioButtonTballs$False$
+radioButtonZrating$False$
+radioButtonRangeUser$False$
+radioButtonRange1Minus1$False$
+radioButtonMiniMax$False$
+textBoxRangeUserDo$$
+textBoxRangeUserTo$$
+textBoxCountSings$$
+textBoxCountObj$$
+textBoxMaxIterCenter$1$
+textBoxCountCluster$3$
+comboBoxDistanceType$Эвклидово расстояние$
+textBoxMaxIterSKO$1$
+radioButtonObjectSeek$False$
+radioButtonCenterRandom$False$
+radioButtonCenterFile$True$
+textBoxFileCenter$C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Debug\Work\Data\InputDataCenter.csv$
+textBoxCountClusterDo$10$
+textBoxCountClusterTo$2$

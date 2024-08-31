@@ -1,0 +1,2 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients.csproj;neutral
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProjectSeasonalCoefficients\UnitTestProjectSeasonalCoefficients.csproj;x86

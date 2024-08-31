@@ -1,0 +1,29 @@
+radioButtonWithoutProcessing$False$
+radioButtonTballs$False$
+radioButtonZrating$False$
+radioButtonRangeUser$False$
+radioButtonRange1Minus1$False$
+radioButtonMiniMax$True$
+textBoxRangeUserDo$10000$
+textBoxRangeUserTo$1$
+textBoxCountSings$2$
+textBoxCountObj$200$
+textBoxMaxIterCenter$10$
+textBoxCountCluster$4$
+comboBoxDistanceType$Эвклидово расстояние$
+textBoxMaxIterSKO$1$
+radioButtonObjectSeek$False$
+radioButtonCenterRandom$True$
+radioButtonCenterFile$False$
+textBoxFileCenter$C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Debug\Work\Data\InputDataCenter.csv$
+textBoxCountClusterDo$7$
+textBoxCountClusterTo$2$
+textBoxFileOpen$C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Debug\Work\Data\InputData — копия.csv$
+radioButtonRandomRangeMax$False$
+radioButtonRandomRangeToDo$True$
+textBoxRandomRangeTo$-10000$
+textBoxRandomRangeDo$100$
+radioButtonRandomIntNumber$True$
+radioButtonRandomRealNumber$False$
+CentreObjectSelectIndex$0;2;4;6$
+radioButtonCenterRandomPP$False$

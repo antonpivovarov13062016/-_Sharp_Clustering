@@ -1,0 +1,35 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\ClassLibrarySeasonalCoefficients.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\ClassLibrarySeasonalCoefficients.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\x86\sqlite3.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\x64\sqlite3.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\ClassLibrary1.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\WFASeasonalCoefficients.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\CsvHelper.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\WFASeasonalCoefficients.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\ClassLibrarySeasonalCoefficients\UnitTestProject2\bin\Debug\CsvHelper.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\CsvHelper.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\UnitTestProject2\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\ClassLibraryClustering.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CopyComplete
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

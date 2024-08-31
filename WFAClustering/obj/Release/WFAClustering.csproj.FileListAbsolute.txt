@@ -1,0 +1,150 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\WFAClustering.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\x86\sqlite3.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\x64\sqlite3.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\WFAClustering.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\WFAClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Remotion.Linq.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Collections.Immutable.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Interactive.Async.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\ClassLibraryClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\CsvHelper.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.Design.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\Remotion.Linq.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Collections.Immutable.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Interactive.Async.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFAClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.AboutBox1.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormBegin.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormSeasonFactor.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormGraph.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.MDIParent1.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFAClustering.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFAClustering.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFAClustering.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFAClustering.pdb
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\WFAClustering.exe.config
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFAClustering.exe
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFAClustering.pdb
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\x86\sqlite3.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\x64\sqlite3.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\WFAClustering.exe
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\WFAClustering.pdb
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Remotion.Linq.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Collections.Immutable.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Interactive.Async.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\ClassLibraryClustering.pdb
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\CsvHelper.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.Design.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\Remotion.Linq.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Collections.Immutable.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Interactive.Async.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFAClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.AboutBox1.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.Form1.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormBegin.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormSeasonFactor.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormGraph.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormClustering.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.MDIParent1.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFAClustering.Properties.Resources.resources
+C:\Users\Anton\Desktop\Clustering\WFAClustering\obj\Release\WFAClustering.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\obj\Release\WFASeasonalCoefficients.FormClustering.resources

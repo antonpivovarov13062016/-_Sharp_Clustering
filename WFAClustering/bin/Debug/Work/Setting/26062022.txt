@@ -1,0 +1,28 @@
+radioButtonWithoutProcessing$True$
+radioButtonTballs$False$
+radioButtonZrating$False$
+radioButtonRangeUser$False$
+radioButtonRange1Minus1$False$
+radioButtonMiniMax$False$
+textBoxRangeUserDo$$
+textBoxRangeUserTo$$
+textBoxCountSings$7$
+textBoxCountObj$40$
+textBoxMaxIterCenter$10$
+textBoxCountCluster$3$
+comboBoxDistanceType$Расстояние Чебышёва (расстояние шахматной доски)$
+textBoxMaxIterSKO$1$
+radioButtonObjectSeek$True$
+radioButtonCenterRandom$False$
+radioButtonCenterFile$False$
+textBoxFileCenter$C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Debug\Work\Data\InputDataCenter.csv$
+textBoxCountClusterDo$7$
+textBoxCountClusterTo$2$
+textBoxFileOpen$C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\WFAClustering\bin\Debug\Work\Data\InputData — копия.csv$
+radioButtonRandomRangeMax$False$
+radioButtonRandomRangeToDo$True$
+textBoxRandomRangeTo$-10000$
+textBoxRandomRangeDo$10000$
+radioButtonRandomIntNumber$True$
+radioButtonRandomRealNumber$False$
+CentreObjectSelectIndex$0;6$
